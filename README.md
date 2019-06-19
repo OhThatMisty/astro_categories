@@ -7,7 +7,8 @@ Project documents:
 1.  <a href='https://github.com/OhThatMisty/astro_categories/blob/master/reports/C2%20Project%20Proposal.pdf'>Project Proposal</a>
 2.  <a href='https://github.com/OhThatMisty/astro_categories/blob/master/reports/C2%20Milestones%201.pdf'>Project Milestones 1</a>
 3.  <a href='https://github.com/OhThatMisty/astro_categories/blob/master/reports/C2%20Milestones%202.pdf'>Project Milestones 2</a>
-4.  <a href='https://github.com/OhThatMisty/astro_categories/blob/master/reports/Final%20Report.pdf'>Final Report</a> (combined reports 1-3, plus Future Directions for project)
+4.  <a href='https://github.com/OhThatMisty/astro_categories/blob/master/reports/C2%20Final%20Report.pdf'>Final Report</a> (combined reports 1-3, plus Future Directions for project)
+5.  <a href='https://github.com/OhThatMisty/astro_categories/blob/master/reports/C2%20Presentation.pdf'>Project Presentation</a>
 
 Project code:
 1.  <a href='https://github.com/OhThatMisty/astro_categories/blob/master/notebooks/ArXiv_cleaning.ipynb'>Data Cleaning</a>
@@ -15,7 +16,7 @@ Project code:
 3.  <a href='https://github.com/OhThatMisty/astro_categories/blob/master/notebooks/ArXiv_modeling.ipynb'>Modeling</a>
 
 Project data:
-1.  <a href=''></a> (a.k.a. "sentences_file" that can be read in to box 6 of <a href='https://github.com/OhThatMisty/astro_categories/blob/master/notebooks/ArXiv_modeling.ipynb'>Modeling</a>, ~50MB, MAKE SURE to comment out boxes 4 and 5!)
+1.  <a href='https://drive.google.com/file/d/1Gevs2Wc1lgBVGsdhFIWRcfKvBsLgAp09/'>Optional data file</a> (a.k.a. "sentences_file" that can be read in to box 6 of <a href='https://github.com/OhThatMisty/astro_categories/blob/master/notebooks/ArXiv_modeling.ipynb'>Modeling</a>, ~50MB, MAKE SURE to comment out boxes 4 and 5!)
 2.  <a href='https://github.com/OhThatMisty/astro_categories/blob/master/data/astro_yourtestdata_1k.csv'>Sample</a> - (This is a sample of 1000 records from arXiv that can be used to test the notebooks, ~2MB.)
 
 Supplementals:
