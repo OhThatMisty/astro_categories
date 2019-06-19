@@ -7,7 +7,7 @@ Project documents:
 1.  <a href='https://github.com/OhThatMisty/astro_categories/blob/master/reports/C2%20Project%20Proposal.pdf'>Project Proposal</a>
 2.  <a href='https://github.com/OhThatMisty/astro_categories/blob/master/reports/C2%20Milestones%201.pdf'>Project Milestones 1</a>
 3.  <a href='https://github.com/OhThatMisty/astro_categories/blob/master/reports/C2%20Milestones%202.pdf'>Project Milestones 2</a>
-4.  <a href='https://github.com/OhThatMisty/astro_categories/blob/master/reports/C2%20Final%20Report.pdf'>Final Report</a> (combined reports 1-3, plus Future Directions for project)
+4.  <a href='https://github.com/OhThatMisty/astro_categories/blob/master/reports/C2%20Final%20Report.pdf'>Final Report</a> (combined reports 1-3, plus future directions for project)
 5.  <a href='https://github.com/OhThatMisty/astro_categories/blob/master/reports/C2%20Presentation.pdf'>Project Presentation</a>
 
 Project code:
