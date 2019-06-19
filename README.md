@@ -1,9 +1,12 @@
-The corpra of academic research in many fields encompass thousands of documents per year.  This project uses natural language processing (NLP) techniques on a selection of astro-ph arXiv submissions to create an aticle-recommendation system.
+Scientists must research others’ work to advance their careers, but researchers contribute thousands of documents to their fields each year.  In 2018, the astrophysics section (astro-ph) of the scientific archive arXiv received over 14,000 submissions.  Although astro-ph is subdivided into six categories, the groupings are fuzzy with many subjects straddling multiple categories.  Scientists at Marshall Space Flight Center have bemoaned the amount of time they must spend searching arXiv to uncover previous research in a new area.
+
+This project uses natural language processing (NLP) techniques over a selection of arXiv abstracts to return related articles.  I’ll demonstrate how TFIDF and document similarity power my search.
+
 
 Project documents:
 1.  <a href='https://github.com/OhThatMisty/astro_categories/blob/master/reports/C2%20Project%20Proposal.pdf'>Project Proposal</a>
 2.  <a href='https://github.com/OhThatMisty/astro_categories/blob/master/reports/C2%20Milestones%201.pdf'>Project Milestones 1</a>
-3.  <a href=''></a>
+3.  <a href='https://github.com/OhThatMisty/astro_categories/blob/master/reports/C2%20Milestones%202.pdf'>Project Milestones 2</a>
 4.  <a href=''></a>
 
 Project code:
