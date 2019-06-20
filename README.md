@@ -16,7 +16,7 @@ Project code:
 3.  <a href='https://github.com/OhThatMisty/astro_categories/blob/master/notebooks/ArXiv_modeling.ipynb'>Modeling</a>
 
 Project data:
-1.  <a href='https://drive.google.com/file/d/1Gevs2Wc1lgBVGsdhFIWRcfKvBsLgAp09/'>Optional data file</a> (a.k.a. "sentences_file" that can be read in to box 6 of <a href='https://github.com/OhThatMisty/astro_categories/blob/master/notebooks/ArXiv_modeling.ipynb'>Modeling</a>, ~50MB, MAKE SURE to comment out boxes 4 and 5!)
+1.  <a href=''>Optional data file</a> (Link broken until I confirm TOS; message me if you need the file.  a.k.a. "sentences_file" that can be read in to box 6 of <a href='https://github.com/OhThatMisty/astro_categories/blob/master/notebooks/ArXiv_modeling.ipynb'>Modeling</a>, ~50MB, MAKE SURE to comment out boxes 4 and 5!)
 2.  <a href='https://github.com/OhThatMisty/astro_categories/blob/master/data/astro_yourtestdata_1k.csv'>Sample</a> - (This is a sample of 1000 records from arXiv that can be used to test the notebooks, ~2MB.)
 
 Supplementals:
